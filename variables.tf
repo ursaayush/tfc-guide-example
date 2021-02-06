@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "db_table_name" {
   type    = string
-  default = "aayush-terraform-learn"
+  default = "aayush1-terraform-learn"
 }
 
 variable "db_read_capacity" {
